@@ -1,1 +1,1 @@
-# phython-devleri
+# phython-ödevleri
